@@ -6,7 +6,7 @@ The eight classes of mice are described based on features such as **genotype**, 
 
 <p align="center">
   <img 
-    src="https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0129126/1/pone.0129126.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20220614%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20220614T075041Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=732216a8d1fbec74d03d0c7ea94b807414b414c743c937bcfa824fdb24a4dcfddcdc0f1617e575821c888b714e629c37029a7c1c7f19317930157f6c3ba41f64b7d8a55f8cd8d4e9bf20b1f657265b57d4ed9f3d73c938fdcc736bc941af42597a8c139a65ffa3de3b78f134e2df4becee592eaeaf7346f7e6a53811c7f4debec2a19d1ab23429c774df815997bc5e380af5160de0d4d35e69b3ba9c6109d70206d95552985f03bc8327f223dae3eed8c02437ddf50cdead882685b6223157553cb6ae2f7060aa58a7aa17d51f2d7e8484059c43167e801c6d800925e4e2450568919a0374f994c6b2ab018b0b742442c3a83a56b70ce2df35f62f9471ae1607#center">
+    src="https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0129126.g001#center">
 </p>
 
 Higuera C, Gardiner KJ, Cios KJ (2015) <i>Self-Organizing Feature Maps Identify Proteins Critical to Learning in a Mouse Model of Down Syndrome.</i> PLoS ONE 10(6): e0129126. [<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0129126">Web Link</a>] journal.pone.0129126 
