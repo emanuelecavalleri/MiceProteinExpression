@@ -11,6 +11,6 @@ The eight classes of mice are described based on features such as **genotype**, 
 
 Higuera C, Gardiner KJ, Cios KJ (2015) <i>Self-Organizing Feature Maps Identify Proteins Critical to Learning in a Mouse Model of Down Syndrome.</i> PLoS ONE 10(6): e0129126. [<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0129126">Web Link</a>] journal.pone.0129126 
 
-The aim of this machine learning project is to solve a **clustering** task starting from this dataset identifying subsets of proteins that are discriminant between the classes (i .e., find structures in the data that allow samples from different classes to be easily identified) and to compare the performance of different clustering algorithms using appropriate clustering metrics. 
+The aim of this machine learning project is to solve a **clustering** task starting from this dataset identifying subsets of proteins that are discriminant between the classes (i. e., find structures in the data that allow samples from different classes to be easily identified) and to compare the performance of different clustering algorithms using appropriate clustering metrics. 
 
 The notebook can be viewed at https://nbviewer.org/github/emanuelecavalleri/MiceProteinExpression/blob/main/MiceProteinExpression.ipynb.
