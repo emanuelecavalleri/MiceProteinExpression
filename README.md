@@ -1,6 +1,6 @@
 # Mice Protein Expression
 
-The data set consists of the **expression levels of $77$ proteins/protein modifications that produced detectable signals in the nuclear fraction of cortex**. 
+The data set consists of the **expression levels of **77** proteins/protein modifications that produced detectable signals in the nuclear fraction of cortex**. 
 
 The aim of this machine learning project is to solve a **clustering** task starting from this dataset identifying subsets of proteins that are discriminant between the classes (i. e., find structures in the data that allow samples from different classes to be easily identified) and to compare the performance of different clustering algorithms using appropriate clustering metrics. 
 
